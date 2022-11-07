@@ -34,7 +34,7 @@ class PopulerController: UIViewController,UICollectionViewDelegate,UICollectionV
         populerMovieCollectionView.collectionViewLayout = layout
         self.getJSONMovies()
     }
-    
+    //veri çek
     func getJSONMovies(){
         Alamofire.request(URL_GET_DATA).responseJSON{ response in
             //if let json = response.result.value {
