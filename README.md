@@ -10,6 +10,8 @@
 
 - User can save, delete and reorder their favorite movies, I used UserDefaults structure for adding favorite movies.
 - I used Alamofire with the support of Cocoapods to contact Themoviedb API
-- 
+
+- ![Uploading Simulator Screen Recording - iPhone 13 - 2022-11-09 at 00.17.58 (1).gif…]()
+
 
 
